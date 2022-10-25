@@ -177,4 +177,4 @@ sleep 0.01
 echo " LOADING TOOLS PLEASE WAIT.... " | lolcat
 sleep 0.01
 clear
-python support 32_64 bit.txt.py
+python support.py
